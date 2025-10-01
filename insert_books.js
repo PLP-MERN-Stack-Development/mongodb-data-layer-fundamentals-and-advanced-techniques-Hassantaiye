@@ -53,6 +53,16 @@ const books = [
     publisher: 'Chatto & Windus'
   },
   {
+    title: "Project Hail Mary",
+    author: "Andy Weir",
+    genre: "Science Fiction",
+    published_year: 2021,
+    price: 21.99,
+    in_stock: true,
+    pages: 476,
+    publisher: "Ballantine Books"
+  },
+  {
     title: 'The Hobbit',
     author: 'J.R.R. Tolkien',
     genre: 'Fantasy',
@@ -121,6 +131,46 @@ const books = [
     in_stock: false,
     pages: 635,
     publisher: 'Harper & Brothers'
+  },
+  {
+    title: "The Catcher in the Rye",
+    author: "J.D. Salinger",
+    genre: "Fiction",
+    published_year: 1951,
+    price: 11.99,
+    in_stock: true,
+    pages: 234,
+    publisher: "Little, Brown and Company"
+  },
+  {
+    title: "The Silent Patient",
+    author: "Alex Michaelides",
+    genre: "Mystery",
+    published_year: 2019,
+    price: 18.99,
+    in_stock: true,
+    pages: 336,
+    publisher: "Celadon Books"
+  },
+  {
+    title: "Where the Crawdads Sing",
+    author: "Delia Owens",
+    genre: "Fiction",
+    published_year: 2018,
+    price: 16.99,
+    in_stock: true,
+    pages: 368,
+    publisher: "G.P. Putnam's Sons"
+  },
+  {
+    title: "The Midnight Library",
+    author: "Matt Haig",
+    genre: "Fiction",
+    published_year: 2020,
+    price: 17.99,
+    in_stock: false,
+    pages: 304,
+    publisher: "Canongate Books"
   },
   {
     title: 'Wuthering Heights',
